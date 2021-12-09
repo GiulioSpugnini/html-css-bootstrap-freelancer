@@ -24,6 +24,10 @@ figure {
     min-height: 600px;
 }
 
+#socials {
+    min-height: 200px;
+}
+
 #copyright {
     min-height: 100px;
 }
