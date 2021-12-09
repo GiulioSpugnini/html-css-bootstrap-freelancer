@@ -24,6 +24,10 @@ figure {
     min-height: 600px;
 }
 
+#copyright {
+    min-height: 100px;
+}
+
 
 /* Colours */
 
