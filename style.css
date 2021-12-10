@@ -4,21 +4,12 @@
     max-width: 300px;
 }
 
+main img {
+    max-width: 500px;
+}
+
 
 /* Sizes */
-
-section {
-    min-height: 500px;
-}
-
-figure {
-    min-height: 300px;
-}
-
-.img {
-    width: 300px;
-    min-height: 300px;
-}
 
 #about {
     min-height: 600px;
