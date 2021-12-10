@@ -1,19 +1,11 @@
 /* Utilities */
 
-#avatar {
+img {
     max-width: 300px;
-}
-
-main img {
-    max-width: 500px;
 }
 
 
 /* Sizes */
-
-#about {
-    min-height: 600px;
-}
 
 #socials {
     min-height: 200px;
