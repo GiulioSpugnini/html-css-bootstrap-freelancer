@@ -17,6 +17,16 @@ img {
     padding-bottom: 20px;
 }
 
+.delete-icon {
+    width: 100px;
+    height: 20px;
+    border-radius: 8px;
+}
+
+.invert {
+    filter: invert(100%);
+}
+
 
 /* Sizes */
 
